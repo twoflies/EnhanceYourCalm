@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EnhanceYourCalm</string>
+
+    <string name="timer_fragment_title_format">%d minutes</string>
+    <string name="timer_fragment_remaining_time_format" formatted="false">%02d:%02d</string>
+    <string name="notification_title">Enhance Your Calm</string>
+    <string name="notification_text_remaining_time_format">%d minutes remaining.</string>
+    <string name="notification_text_less_than_one_minutes">Less than 1 minute remaining.</string>
+    <string name="notification_text_expired">Timer has expired.</string>
+</resources>
